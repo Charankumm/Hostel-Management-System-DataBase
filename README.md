@@ -22,7 +22,7 @@ The responses from the Google Form are stored in the following hosted MySQL data
 ## 🖼️ Database Screenshot
 Below is the phpMyAdmin screenshot showing how form data is stored in the MySQL database:
 
-![Database Screenshot](docs/db_screenshot.png)
+![Database Screenshot](https://github.com/Charankumm/Hostel-Management-System-DataBase/blob/main/Screenshot%202025-09-09%20172108.png)
 
 ---
 
