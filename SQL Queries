@@ -1,0 +1,9 @@
+CREATE TABLE hostel_students (
+  `Name of the Student` VARCHAR(100) NOT NULL,
+  `Name of the College` VARCHAR(150) NOT NULL,
+  `Roll Number` VARCHAR(20) NOT NULL,
+  `Allocated Room num` VARCHAR(10) NOT NULL,
+  `Fee Paid?` VARCHAR(20) NOT NULL,
+  `Permanent Address` VARCHAR(200) NOT NULL,
+  `Mobile Number of Student` VARCHAR(20) NOT NULL
+);
