@@ -42,5 +42,5 @@ Below is the phpMyAdmin screenshot showing how form data is stored in the MySQL 
 ---
 
 ## 📝 Author
-*Your Name*  
+Vadlakonda Charan Kumar 
 
